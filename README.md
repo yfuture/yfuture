@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>yfuture</title>
+    
 </head>
 <body>
     <!-- mensagens -->
