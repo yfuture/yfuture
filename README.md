@@ -1,8 +1,11 @@
+<!DOCTYPE html>
+<html>
 <head>
-    <link rel="stylesheet" href="styles.css">
+    <title>yfuture</title>
 </head>
-
-<body style="background-color:blue;">
-    I’m currently learning: Cyber Segurity, C and Python.
-    Atualmente estou estudando engenharia de software e cyber segurança.
+<body>
+    <!-- mensagens -->
+    Olá sou Jose Mendez
 </body>
+</html>
+
