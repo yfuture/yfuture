@@ -1,1 +1,10 @@
-backgroundcolor: "blue"
+/* Example CSS */
+
+body {
+  background-color: lightgray;
+}
+
+.my-element {
+  background-color: #0000ff;
+}
+ 
