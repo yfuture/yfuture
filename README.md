@@ -3,9 +3,7 @@
 </head>
 
 <body style="background-color:powderblue;">
-<h2>
-<center>
-         Hi there 👋
-<center/>
-- 🌱 I’m currently learning: Cyber Segurity, C and Python.
-- Atualmente estou estudando engenharia de software e cyber segurança.
+    Hi there 👋
+    I’m currently learning: Cyber Segurity, C and Python.
+    Atualmente estou estudando engenharia de software e cyber segurança.
+</body>
