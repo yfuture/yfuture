@@ -35,7 +35,8 @@ Linguagens com mais Habilidades:
 </div>
 
 <div align="left">
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 Minhas certificações mais relevantes:
 
@@ -50,6 +51,12 @@ CISCO NETWORKING ACADEMY END-POINT SECURITY
 <img width="157" height="157" alt="endpoint-security" src="https://github.com/user-attachments/assets/2e904ece-d52d-426b-9b47-b35cee17ceaa" />
 </div>
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div><h2>Sobre min:</h2>
+Tenho perfil autodidata, focado em resolução, e muita vontade de aprender e inovar
+
+</div>
 </body>
 </html>
 
