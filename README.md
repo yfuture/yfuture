@@ -1,3 +1,4 @@
+![styled content](styled-section.svg)
 <!DOCTYPE html>
 <html>
 <head>
