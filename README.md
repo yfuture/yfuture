@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <h2><center>Olá sou Jose Mendez</center></h2>
+    <h2><center></center></h2>
 </head>
 
 Linguagens com mais Habilidades:
@@ -32,10 +32,11 @@ Linguagens com mais Habilidades:
 </div>
 
 <div>
---
 </div>
 
 <div align="left">
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
 Minhas certificações mais relevantes:
 
 CISCO NETWORKING ACADEMY ETHICAL HACKER
