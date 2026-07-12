@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        h1 {
+        h2 {
           color: purple;
           animation: mymove 2s infinite;
         }
@@ -11,7 +11,7 @@
           to {color: black;}
         }
       </style>
-      <h1>Olá sou JOSE YOSAFAT e amo tecnología</h1>
+      <h1>JOSE YOSAFAT MENDEZ REBOLLEDO</h1>
     </div>
   </foreignObject>
 </svg>
