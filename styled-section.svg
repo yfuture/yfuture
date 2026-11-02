@@ -8,7 +8,7 @@
         }
         @keyframes mymove {
           from {color: blue;}
-          to {color: black;}
+          to {color: royalblue;}
         }
       </style>
       <h1>JOSE YOSAFAT MENDEZ REBOLLEDO</h1>
