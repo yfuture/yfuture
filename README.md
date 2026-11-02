@@ -53,8 +53,8 @@ CISCO NETWORKING ACADEMY END-POINT SECURITY
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div><h2>Sobre min:</h2>
-Tenho perfil autodidata, focado em resolução, e muita vontade de aprender e inovar
+<div><h2></h2>
+
 
 </div>
 </body>
