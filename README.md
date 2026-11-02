@@ -4,7 +4,7 @@
 <head>
     <h2><center></center></h2>
 </head>
-
+<body style="body:royalblue;">
 Linguagens com mais Habilidades:
 <div align="center">
 <table border=0>
