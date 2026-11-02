@@ -4,27 +4,28 @@
 <head>
 </head>
 <body>
-Linguagens com mais Habilidades:
+  <h3>About me</h3>
+  <p>Hey there, my software bachelor certify is coming soon, the cyber security, programming and all about computer science is my biggest passion</p>
 <div align="center">
 <table border=0>
   <caption>
-    Linguagens
+    
   </caption>
     
   <thead>
     <tr>
-      <th><img width="" height="" alt="python" src="https://github.com/user-attachments/assets/59caa96a-4136-4f53-b023-db2f963499de" /></th>
-      <th><img align="right" width="140" height="140" alt="c++" src="https://github.com/user-attachments/assets/3909ebb2-fad8-4e4f-bdf9-6022013edab4" /></th>
+      <!--<th><img width="" height="" alt="python" src="https://github.com/user-attachments/assets/59caa96a-4136-4f53-b023-db2f963499de" /></th>
+      <th><img align="right" width="140" height="140" alt="c++" src="https://github.com/user-attachments/assets/3909ebb2-fad8-4e4f-bdf9-6022013edab4" /></th>-->
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Framewokr</td>
-      <td>Framework</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Framework</td>
-      <td>Framework</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
