@@ -5,6 +5,7 @@
         h1 {
           color: purple;
           animation: mymove 2s infinite;
+          font-family: fantasy;
         }
         @keyframes mymove {
           from {color: blue;}
