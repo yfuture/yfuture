@@ -5,7 +5,7 @@
 </head>
 <body>
   <h3>About me</h3>
-  <p>Hey there, my software bachelor certify is coming soon, the cyber security, programming and all about computer science is my biggest passion</p>
+  <p>Hey there, my software bachelor certify is coming soon. The cyber security, programming and all about computer science is my biggest passion</p>
 <div align="center">
 <table border=0>
   <caption>
