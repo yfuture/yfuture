@@ -2,9 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <h2><center>sdf</center></h2>
 </head>
-<body style="body:royalblue;">
+<body>
 Linguagens com mais Habilidades:
 <div align="center">
 <table border=0>
